@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laura Vargas",
+    "edad": "22",
+    "carrera": "Ing sistemas"
+  },
+  {
+    "id": 2,
+    "nombre": "Tatiana Vargas",
+    "edad": "19",
+    "carrera": "Policia"
+  },
+  {
+    "id": 4,
+    "nombre": "Maria Vargas",
+    "edad": "19",
+    "carrera": "Profesora"
+  },
+  {
+    "id": 30,
+    "nombre": "Maria Jimenez",
+    "edad": "30",
+    "carrera": "Profesora"
+  }
+]
